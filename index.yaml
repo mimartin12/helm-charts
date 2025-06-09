@@ -3,8 +3,9 @@ entries:
   self-host:
   - apiVersion: v2
     appVersion: 2025.5.1
+    deprecated: true
     created: "2025-05-20T21:31:54.628091007Z"
-    description: A Helm chart for deploying a Bitwarden instance on Kubernetes
+    description: "⚠️ DEPRECATED: This CalVer release is deprecated. Please upgrade to SemVer 1.0.0+"
     digest: 2ea7f2db27ca8ca29409467edcc2bb740bf37b8da94a9a10f16cb9c3f6977fb8
     home: https://github.com/bitwarden/helm-charts/tree/main/charts/self-host
     icon: https://raw.githubusercontent.com/bitwarden/brand/master/icons/icon-square.svg
